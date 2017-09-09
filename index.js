@@ -1,7 +1,3 @@
-/**
- * Created by peter on 08/09/2017.
- */
-
 /*****
  *
  * Game of Breach
